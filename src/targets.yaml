@@ -1,0 +1,169 @@
+# 監視対象メーカー一覧
+# category: pvc(塩ビ管) / frp(FRP/ガラスマット/樹脂) / waterproof(防水) / paint(塗料) / industry(業界団体)
+
+targets:
+  # ========== 塩ビ管メーカー ==========
+  - id: kubota_chemix
+    name: クボタケミックス
+    category: pvc
+    url: https://drain.kubota.co.jp/
+    type: scrape
+    selector: "body"  # ページ全体の差分を取得
+    keywords:
+      - "受注"
+      - "供給"
+      - "再開"
+      - "停止"
+      - "納期"
+      - "値上げ"
+      - "価格改定"
+
+  - id: sekisui_news
+    name: 積水化学工業 ニュース
+    category: pvc
+    url: https://www.sekisui.co.jp/news/2026/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "塩化ビニル"
+      - "ポリエチレン"
+      - "中東"
+      - "供給"
+      - "受注"
+      - "再開"
+
+  - id: aron_kasei
+    name: アロン化成
+    category: pvc
+    url: https://www.aronkasei.co.jp/jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "塩ビ"
+      - "供給"
+      - "受注"
+      - "再開"
+      - "値上げ"
+
+  # ========== FRP/ガラスマット/樹脂メーカー ==========
+  - id: upica
+    name: 三菱ガス化学ネクスト（旧日本ユピカ）
+    category: frp
+    url: https://www.u-pica.co.jp/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "ユピカ"
+      - "供給"
+      - "受注"
+      - "再開"
+      - "ポリエステル"
+      - "値上げ"
+
+  - id: nittobo
+    name: 日東紡
+    category: frp
+    url: https://www.nittobo.co.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "ガラス"
+      - "供給"
+      - "受注"
+      - "再開"
+
+  - id: dic_material
+    name: DICマテリアル
+    category: frp
+    url: https://www.dic-global.com/ja/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "サンドーマ"
+      - "ポリエステル"
+      - "供給"
+      - "受注"
+
+  # ========== 防水材メーカー ==========
+  - id: tajima
+    name: 田島ルーフィング
+    category: waterproof
+    url: https://tajima.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "オルタック"
+      - "ルーフィング"
+      - "受注"
+      - "再開"
+      - "供給"
+
+  - id: nisshinkogyo
+    name: 日新工業
+    category: waterproof
+    url: https://www.nisshinkogyo.co.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "アスファルト"
+      - "受注"
+      - "再開"
+      - "供給"
+
+  # ========== 塗料・シーリング材メーカー ==========
+  - id: sk_kaken
+    name: エスケー化研
+    category: paint
+    url: https://www.sk-kaken.co.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "供給"
+      - "受注"
+      - "再開"
+      - "値上げ"
+
+  - id: nipponpaint
+    name: 日本ペイント
+    category: paint
+    url: https://www.nipponpaint.co.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "シンナー"
+      - "供給"
+      - "受注"
+      - "再開"
+
+  - id: autochem
+    name: オート化学工業
+    category: paint
+    url: https://www.autochem.co.jp/news/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "供給"
+      - "制限"
+      - "再開"
+      - "受注"
+
+  # ========== 業界団体・業界横断まとめサイト ==========
+  - id: ppfa_statistics
+    name: 塩化ビニル管・継手協会 出荷統計
+    category: industry
+    url: https://www.ppfa.gr.jp/pvc/statistics/statistics_a/
+    type: scrape
+    selector: "table"
+    keywords: []  # 統計表全体の変化を見る
+
+  - id: craftbank_souken
+    name: クラフトバンク総研 資材値上げ情報
+    category: industry
+    url: https://souken.craft-bank.com/analisys/zairyoneage/
+    type: scrape
+    selector: "body"
+    keywords:
+      - "再開"
+      - "解除"
+      - "正常化"
+      - "供給"
