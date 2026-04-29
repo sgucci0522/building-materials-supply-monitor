@@ -1,0 +1,22 @@
+name: Test Slack
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test message
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          echo "Webhook URL length: ${#SLACK_WEBHOOK_URL}"
+          echo "Webhook URL prefix: ${SLACK_WEBHOOK_URL:0:30}"
+          echo "---"
+          echo "Sending test message..."
+          RESPONSE=$(curl -s -w "\nHTTP_STATUS:%{http_code}" -X POST \
+            -H 'Content-type: application/json' \
+            --data '{"text":"🔔 building-materials-supply-monitor Slack疎通テスト成功"}' \
+            "$SLACK_WEBHOOK_URL")
+          echo "Response: $RESPONSE"
