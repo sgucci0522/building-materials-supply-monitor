@@ -1,49 +1,49 @@
 {
   "kubota_chemix": {
     "name": "クボタケミックス",
-    "last_check": "2026-06-02T16:24:42.736688+09:00",
+    "last_check": "2026-06-03T08:47:11.297318+09:00",
     "last_hash": "f8764fab6ba9",
     "category": "pvc"
   },
   "sekisui_news": {
     "name": "積水化学工業 ニュース",
-    "last_check": "2026-06-02T16:24:44.099524+09:00",
+    "last_check": "2026-06-03T08:47:12.750822+09:00",
     "last_hash": "417eb2389545",
     "category": "pvc"
   },
   "dic_material": {
     "name": "DICマテリアル",
-    "last_check": "2026-06-02T16:24:46.372013+09:00",
+    "last_check": "2026-06-03T08:47:14.911415+09:00",
     "last_hash": "c7aef34a06ee",
     "category": "frp"
   },
   "sk_kaken": {
     "name": "エスケー化研",
-    "last_check": "2026-06-02T16:24:49.397545+09:00",
+    "last_check": "2026-06-03T08:47:18.284151+09:00",
     "last_hash": "6e121807a15f",
     "category": "paint"
   },
   "nipponpaint": {
     "name": "日本ペイント",
-    "last_check": "2026-06-02T16:24:51.386115+09:00",
+    "last_check": "2026-06-03T08:47:19.398276+09:00",
     "last_hash": "c56a59a39de0",
     "category": "paint"
   },
   "autochem": {
     "name": "オート化学工業",
-    "last_check": "2026-06-02T16:24:53.506459+09:00",
+    "last_check": "2026-06-03T08:47:21.693087+09:00",
     "last_hash": "49a3a32c8874",
     "category": "paint"
   },
   "ppfa_statistics": {
     "name": "塩化ビニル管・継手協会 出荷統計",
-    "last_check": "2026-06-02T16:24:54.628134+09:00",
+    "last_check": "2026-06-03T08:47:23.110194+09:00",
     "last_hash": "5b93fafaccd2",
     "category": "industry"
   },
   "craftbank_souken": {
     "name": "クラフトバンク総研 資材値上げ情報",
-    "last_check": "2026-06-02T16:24:55.457871+09:00",
+    "last_check": "2026-06-03T08:47:23.902987+09:00",
     "last_hash": "8e97e9041c01",
     "category": "industry"
   }
