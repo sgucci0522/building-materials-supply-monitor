@@ -38,7 +38,6 @@ HAPPY PAINT PROJECT
 THERMOEYE サーモアイ
 プロテクトン
 EMO
-nax E-CUBE WB 水性システム
 ダンジオーラシステム
 SUSTAINA SYSTEM
 グリーンループBMK
@@ -53,7 +52,6 @@ SUSTAINA SYSTEM
 THERMOEYE サーモアイ
 プロテクトン
 EMO
-nax E-CUBE WB 水性システム
 ダンジオーラシステム
 SUSTAINA SYSTEM
 グリーンループBMK
@@ -72,13 +70,15 @@ PERFECT Color Design
 住まいの塗替えガイド
 ニッペマンとみんなのステキな家
 ダイヤモンドコート
-安心・信頼の外壁塗装で、家を美しく保つ
+ダイヤモンドコート加盟施工店がお届けする
+品質重視の戸建て住宅システムはこちら
 ニッペラボTOP
 PERFECT Color Design
 塗料・塗装を学ぶ
 実績紹介
 用語集
 住まいの塗り替えガイド
+ダイヤモンドコート
 お客様サポート
 お客様サポート
 お客様サポート
@@ -159,9 +159,14 @@ HAPPY PAINT PROJECT
 重防食用塗料
 自動車補修用塗料
 家庭用塗料
+グランセラシリーズ
 パーフェクトシリーズ
-サーモアイ
-nax E-CUBE WB 水性システム
+THERMOEYE サーモアイ
+プロテクトン
+EMO
+ダンジオーラシステム
+SUSTAINA SYSTEM
+グリーンループBMK
 ニッペラボ
 PERFECT Color Design
 塗料・塗装を学ぶ
@@ -223,9 +228,14 @@ HAPPY PAINT PROJECT
 重防食用塗料
 自動車補修用塗料
 家庭用塗料
+グランセラシリーズ
 パーフェクトシリーズ
-サーモアイ
-nax E-CUBE WB 水性システム
+THERMOEYE サーモアイ
+プロテクトン
+EMO
+ダンジオーラシステム
+SUSTAINA SYSTEM
+グリーンループBMK
 ニッペラボ
 ニッペラボTOP
 PERFECT Color Design
