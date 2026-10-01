@@ -1,55 +1,55 @@
 {
   "kubota_chemix": {
     "name": "クボタケミックス",
-    "last_check": "2026-09-30T18:21:35.887022+09:00",
+    "last_check": "2026-10-01T10:07:33.821850+09:00",
     "last_hash": "f8764fab6ba9",
     "category": "pvc"
   },
   "sekisui_news": {
     "name": "積水化学工業 ニュース",
-    "last_check": "2026-09-30T18:21:37.888547+09:00",
+    "last_check": "2026-10-01T10:07:35.805208+09:00",
     "last_hash": "94116f3aaa84",
     "category": "pvc"
   },
   "dic_material": {
     "name": "DICマテリアル",
-    "last_check": "2026-09-30T18:21:40.223356+09:00",
-    "last_hash": "2763e7a61519",
+    "last_check": "2026-10-01T10:07:38.234352+09:00",
+    "last_hash": "2e3e091f2cfe",
     "category": "frp"
   },
   "sk_kaken": {
     "name": "エスケー化研",
-    "last_check": "2026-09-30T18:21:42.716385+09:00",
+    "last_check": "2026-10-01T10:07:40.992977+09:00",
     "last_hash": "1286567bd963",
     "category": "paint"
   },
   "nipponpaint": {
     "name": "日本ペイント",
-    "last_check": "2026-09-30T18:21:43.560544+09:00",
+    "last_check": "2026-10-01T10:07:43.013321+09:00",
     "last_hash": "d30e666cded9",
     "category": "paint"
   },
   "autochem": {
     "name": "オート化学工業",
-    "last_check": "2026-09-30T18:21:45.361647+09:00",
+    "last_check": "2026-10-01T10:07:44.917232+09:00",
     "last_hash": "f6dbc772a22b",
     "category": "paint"
   },
   "ppfa_statistics": {
     "name": "塩化ビニル管・継手協会 出荷統計",
-    "last_check": "2026-09-30T18:21:46.124013+09:00",
+    "last_check": "2026-10-01T10:07:45.886387+09:00",
     "last_hash": "e7220c75dab0",
     "category": "industry"
   },
   "craftbank_souken": {
     "name": "クラフトバンク総研 資材値上げ情報",
-    "last_check": "2026-09-30T18:21:46.884676+09:00",
-    "last_hash": "ea4398b6c09b",
+    "last_check": "2026-10-01T10:07:46.763057+09:00",
+    "last_hash": "e9201fe12214",
     "category": "industry"
   },
   "nittobo": {
     "name": "日東紡",
-    "last_check": "2026-09-30T18:21:39.564862+09:00",
+    "last_check": "2026-10-01T10:07:37.697698+09:00",
     "last_hash": "ffadbc67b250",
     "category": "frp"
   }
